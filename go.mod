@@ -1,3 +1,3 @@
-module your-module-name
+module advicera7ma
 
-go 1.16  // or whichever version you're using
+go 1.16
